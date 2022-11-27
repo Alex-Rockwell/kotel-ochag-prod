@@ -1,0 +1,19 @@
+https://www.figma.com/file/vfNHTwBkJFk43EGHY9p7M0/%D0%91%D1%83%D1%80%D0%B0%D0%BD?node-id=52%3A50
+https://xn----8sbjfyhtd6a6c.xn--p1ai/about
+http://kotel-buran.ru/catalog
+
+yandex maps:
+npm install vue-yandex-maps@next
+Key #1
+65609d96-c182-493a-a472-94cdb79ac176
+
+phpmailer
+vin-ag@inbox.ru
+5E2d6g989dThxYEuN4py
+
+яндекс-карты
+логин: test190522
+пароль: 1yDL1tDNNX
+
+https://www.figma.com/file/UoG4OLTnJxXRh1DaygtFBX/%D0%9E%D1%87%D0%B0%D0%B3?node-id=0%3A1
+
